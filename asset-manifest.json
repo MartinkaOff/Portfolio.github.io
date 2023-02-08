@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3d03f315.chunk.css",
+    "main.js": "./static/js/main.145d726e.chunk.js",
+    "main.js.map": "./static/js/main.145d726e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.eac7fa23.js",
+    "runtime-main.js.map": "./static/js/runtime-main.eac7fa23.js.map",
+    "static/js/2.223e7d86.chunk.js": "./static/js/2.223e7d86.chunk.js",
+    "static/js/2.223e7d86.chunk.js.map": "./static/js/2.223e7d86.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3d03f315.chunk.css.map": "./static/css/main.3d03f315.chunk.css.map",
+    "static/js/2.223e7d86.chunk.js.LICENSE.txt": "./static/js/2.223e7d86.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "./static/media/ua-BRAND-regular.bfcad137.ttf",
+    "static/media/css3.a2f128a3.svg": "./static/media/css3.a2f128a3.svg",
+    "static/media/dots.b8d5e44e.svg": "./static/media/dots.b8d5e44e.svg",
+    "static/media/github.f109846b.svg": "./static/media/github.f109846b.svg",
+    "static/media/html5.fe35999f.svg": "./static/media/html5.fe35999f.svg",
+    "static/media/js.f5d2f667.svg": "./static/media/js.f5d2f667.svg",
+    "static/media/whatsapp.8ef0a6ac.svg": "./static/media/whatsapp.8ef0a6ac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac7fa23.js",
+    "static/js/2.223e7d86.chunk.js",
+    "static/css/main.3d03f315.chunk.css",
+    "static/js/main.145d726e.chunk.js"
+  ]
+}
